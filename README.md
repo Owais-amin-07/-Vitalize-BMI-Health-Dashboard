@@ -37,3 +37,6 @@ A premium, glassmorphism-styled 3D BMI calculator with real-time health insights
 - `components/`: Reusable UI components.
 - `db.sql`: Database schema definition (for reference).
 - `src/index.css`: Tailwind CSS entry point and custom styles.
+
+![Screenshot of the project](https://github.com/Owais-amin-07/-Vitalize-BMI-Health-Dashboard/blob/bca9e9745fb30f266180bb37139588e388ec05d4/web%20proj%2001.png)
+
